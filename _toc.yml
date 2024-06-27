@@ -4,7 +4,7 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/notebook
 - file: docs/Dataset
 - file: docs/arguments
 - file: docs/reflection
+- file: docs/References
