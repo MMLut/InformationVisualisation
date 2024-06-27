@@ -5,3 +5,8 @@ format: jb-book
 root: docs/home
 chapters:
 - file: docs/notebook
+- file: docs/Dataset
+- file: docs/anti
+- file: docs/pro
+- file: docs/summary
+- file: docs/reflection
