@@ -2,9 +2,6 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/home
-chapters:
-- file: docs/Dataset
-- file: docs/arguments
-- file: docs/reflection
-- file: docs/References
+root: docs/notebook
+#chapters:
+#- file: docs/
