@@ -4,7 +4,7 @@
 * Student Numbers: ?, ?, 14987996, ?
 * Group: 9
 * Work group: J
-* Link to Github Repository: [github.com](https://github.com/MMLut/InformationVisualisation)
+* Link to Github Repository: [github.com](https://github.com/MMLut/InformationVisualisation) \
 Gun violence is a critical issue in the United States, frequently making headlines through instances of gang violence, home invasions, and school shootings. The debate often centers on whether the Second Amendment's right to bear arms is the primary cause, or if socio-economic factors like poverty and unemployment play a more significant role. This data story aims to explore these perspectives in detail, using extensive datasets to uncover patterns and correlations that highlight the complex nature of gun violence.
 
 Our data story substantiates two main perspectives. One argues that the Second Amendment, which guarantees the right to keep and bear arms, is the underlying cause of the high rate of gun-related crimes. To address this, proponents suggest enforcing much stricter gun laws or abolishing the right to own guns entirely. A significant part of this argument focuses on school shootings, a tragic manifestation of violence in educational settings. These incidents cause immense pain and suffering to victims, their families, and communities, disrupting the educational environment. By analyzing the frequency and impact of school shootings, and comparing gun violence in the U.S. to Europe, where stricter gun laws prevail, we would argue that the Second Amendment makes Americans live less safe lives.
