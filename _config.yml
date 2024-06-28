@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Gun Violence # Change this to your book title.
+title: Gun Violence Data Story Project # Change this to your book title.
 author: AMGS # Change this to your name (or your team/organization name).
 
 # Force re-execution of notebooks on each build.
@@ -40,3 +40,7 @@ sphinx:
     html_js_files:
       # This is for plotly to work
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+
+jobs:
+  - name: installs
+    run: pip install statsmodels
